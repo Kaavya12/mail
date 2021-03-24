@@ -1,0 +1,15 @@
+textarea {
+    min-height: 400px;
+}
+
+.each-mail{
+	border: 1px solid black;
+}
+
+.read{
+	background: lightgrey;
+}
+
+.email_body {
+    white-space: pre-wrap;
+        }
